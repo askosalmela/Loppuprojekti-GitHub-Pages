@@ -61,16 +61,20 @@
 
 ## Lists
 
-1.  * Flour
+1.
+    * Flour
     * Cheese
     * Tomatoes
-2.  1. Cut the cheese
+3.
+    1. Cut the cheese
     2. Slice the tomatoes
     3. Rub the tomatoes in flour  
-3.  * Azalea (_Ericaceae Rhododendron_)
+5.
+    * Azalea (_Ericaceae Rhododendron_)
     * Chrysanthemum (_Anthemideae Chrysanthemum_)
     * Dahlia (_Coreopsideae Dahlia_)
-4.  * Calculus
+7.
+    * Calculus
      * A professor
      * Has no hair
      * Often wears green
@@ -78,7 +82,8 @@
      * An opera singer
      * Has white hair
      * Is very famous
-5.  1. Cut the cheese  
+9.
+    1. Cut the cheese  
     
         Make sure that the cheese is cut into little triangles.
 
